@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="row align-items-center ">
        <div className="col-lg-6">
         <div className="copyright">
-         &copy; Copyright Reserved by <span>Dr.Emily</span>
+         &copy; Copyright Reserved by <span>Zeyad</span>
         </div>
        </div>
        <div className="col-lg-6">
